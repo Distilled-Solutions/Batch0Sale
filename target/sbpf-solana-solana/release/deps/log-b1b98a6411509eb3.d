@@ -1,0 +1,10 @@
+/Users/johnbentleyii/Projects/BourbonCoin/Repos/batch0-sale-contract/tools/target/sbpf-solana-solana/release/deps/liblog-b1b98a6411509eb3.rmeta: /Users/johnbentleyii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/lib.rs /Users/johnbentleyii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/macros.rs /Users/johnbentleyii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/serde.rs /Users/johnbentleyii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/__private_api.rs
+
+/Users/johnbentleyii/Projects/BourbonCoin/Repos/batch0-sale-contract/tools/target/sbpf-solana-solana/release/deps/liblog-b1b98a6411509eb3.rlib: /Users/johnbentleyii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/lib.rs /Users/johnbentleyii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/macros.rs /Users/johnbentleyii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/serde.rs /Users/johnbentleyii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/__private_api.rs
+
+/Users/johnbentleyii/Projects/BourbonCoin/Repos/batch0-sale-contract/tools/target/sbpf-solana-solana/release/deps/log-b1b98a6411509eb3.d: /Users/johnbentleyii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/lib.rs /Users/johnbentleyii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/macros.rs /Users/johnbentleyii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/serde.rs /Users/johnbentleyii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/__private_api.rs
+
+/Users/johnbentleyii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/lib.rs:
+/Users/johnbentleyii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/macros.rs:
+/Users/johnbentleyii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/serde.rs:
+/Users/johnbentleyii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/__private_api.rs:
